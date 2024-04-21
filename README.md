@@ -1,4 +1,4 @@
-![Screenshot (608)](https://github.com/sonalitech/CBTCIP/assets/137139854/ddcdf801-2629-428c-84e5-815ad91b0922)# CIPHERBYTE
+# CIPHERBYTE
 Internship (March - April)
 
 Project 1 (Guess The Number)
